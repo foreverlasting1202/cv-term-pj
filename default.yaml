@@ -1,4 +1,4 @@
-task: manhattan_sdf
+task: Atlanta
 exp_name: 'scannet_0050'
 gpus: [0]
 

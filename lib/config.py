@@ -5,7 +5,7 @@ import numpy as np
 
 cfg = CN()
 
-cfg.task = 'manhattan_sdf'
+cfg.task = 'Atlanta'
 cfg.exp_name = 'scannet'
 cfg.gpus = [0]
 cfg.pretrain = ''
